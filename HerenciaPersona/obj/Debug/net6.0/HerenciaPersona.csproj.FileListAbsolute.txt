@@ -1,0 +1,15 @@
+C:\Users\Dam\source\repos\Triangulo\HerenciaPersona\bin\Debug\net6.0\HerenciaPersona.exe
+C:\Users\Dam\source\repos\Triangulo\HerenciaPersona\bin\Debug\net6.0\HerenciaPersona.deps.json
+C:\Users\Dam\source\repos\Triangulo\HerenciaPersona\bin\Debug\net6.0\HerenciaPersona.runtimeconfig.json
+C:\Users\Dam\source\repos\Triangulo\HerenciaPersona\bin\Debug\net6.0\HerenciaPersona.dll
+C:\Users\Dam\source\repos\Triangulo\HerenciaPersona\bin\Debug\net6.0\HerenciaPersona.pdb
+C:\Users\Dam\source\repos\Triangulo\HerenciaPersona\obj\Debug\net6.0\HerenciaPersona.csproj.AssemblyReference.cache
+C:\Users\Dam\source\repos\Triangulo\HerenciaPersona\obj\Debug\net6.0\HerenciaPersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dam\source\repos\Triangulo\HerenciaPersona\obj\Debug\net6.0\HerenciaPersona.AssemblyInfoInputs.cache
+C:\Users\Dam\source\repos\Triangulo\HerenciaPersona\obj\Debug\net6.0\HerenciaPersona.AssemblyInfo.cs
+C:\Users\Dam\source\repos\Triangulo\HerenciaPersona\obj\Debug\net6.0\HerenciaPersona.csproj.CoreCompileInputs.cache
+C:\Users\Dam\source\repos\Triangulo\HerenciaPersona\obj\Debug\net6.0\HerenciaPersona.dll
+C:\Users\Dam\source\repos\Triangulo\HerenciaPersona\obj\Debug\net6.0\refint\HerenciaPersona.dll
+C:\Users\Dam\source\repos\Triangulo\HerenciaPersona\obj\Debug\net6.0\HerenciaPersona.pdb
+C:\Users\Dam\source\repos\Triangulo\HerenciaPersona\obj\Debug\net6.0\HerenciaPersona.genruntimeconfig.cache
+C:\Users\Dam\source\repos\Triangulo\HerenciaPersona\obj\Debug\net6.0\ref\HerenciaPersona.dll

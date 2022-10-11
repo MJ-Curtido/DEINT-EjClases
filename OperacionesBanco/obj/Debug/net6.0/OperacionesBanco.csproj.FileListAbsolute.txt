@@ -1,0 +1,15 @@
+C:\Users\Dam\source\repos\Triangulo\OperacionesBanco\bin\Debug\net6.0\OperacionesBanco.exe
+C:\Users\Dam\source\repos\Triangulo\OperacionesBanco\bin\Debug\net6.0\OperacionesBanco.deps.json
+C:\Users\Dam\source\repos\Triangulo\OperacionesBanco\bin\Debug\net6.0\OperacionesBanco.runtimeconfig.json
+C:\Users\Dam\source\repos\Triangulo\OperacionesBanco\bin\Debug\net6.0\OperacionesBanco.dll
+C:\Users\Dam\source\repos\Triangulo\OperacionesBanco\bin\Debug\net6.0\OperacionesBanco.pdb
+C:\Users\Dam\source\repos\Triangulo\OperacionesBanco\obj\Debug\net6.0\OperacionesBanco.csproj.AssemblyReference.cache
+C:\Users\Dam\source\repos\Triangulo\OperacionesBanco\obj\Debug\net6.0\OperacionesBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dam\source\repos\Triangulo\OperacionesBanco\obj\Debug\net6.0\OperacionesBanco.AssemblyInfoInputs.cache
+C:\Users\Dam\source\repos\Triangulo\OperacionesBanco\obj\Debug\net6.0\OperacionesBanco.AssemblyInfo.cs
+C:\Users\Dam\source\repos\Triangulo\OperacionesBanco\obj\Debug\net6.0\OperacionesBanco.csproj.CoreCompileInputs.cache
+C:\Users\Dam\source\repos\Triangulo\OperacionesBanco\obj\Debug\net6.0\OperacionesBanco.dll
+C:\Users\Dam\source\repos\Triangulo\OperacionesBanco\obj\Debug\net6.0\refint\OperacionesBanco.dll
+C:\Users\Dam\source\repos\Triangulo\OperacionesBanco\obj\Debug\net6.0\OperacionesBanco.pdb
+C:\Users\Dam\source\repos\Triangulo\OperacionesBanco\obj\Debug\net6.0\OperacionesBanco.genruntimeconfig.cache
+C:\Users\Dam\source\repos\Triangulo\OperacionesBanco\obj\Debug\net6.0\ref\OperacionesBanco.dll

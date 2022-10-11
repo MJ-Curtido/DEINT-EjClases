@@ -1,0 +1,15 @@
+C:\Users\Dam\source\repos\Triangulo\TrianguloIsosceles\bin\Debug\net6.0\TrianguloIsosceles.exe
+C:\Users\Dam\source\repos\Triangulo\TrianguloIsosceles\bin\Debug\net6.0\TrianguloIsosceles.deps.json
+C:\Users\Dam\source\repos\Triangulo\TrianguloIsosceles\bin\Debug\net6.0\TrianguloIsosceles.runtimeconfig.json
+C:\Users\Dam\source\repos\Triangulo\TrianguloIsosceles\bin\Debug\net6.0\TrianguloIsosceles.dll
+C:\Users\Dam\source\repos\Triangulo\TrianguloIsosceles\bin\Debug\net6.0\TrianguloIsosceles.pdb
+C:\Users\Dam\source\repos\Triangulo\TrianguloIsosceles\obj\Debug\net6.0\TrianguloIsosceles.csproj.AssemblyReference.cache
+C:\Users\Dam\source\repos\Triangulo\TrianguloIsosceles\obj\Debug\net6.0\TrianguloIsosceles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dam\source\repos\Triangulo\TrianguloIsosceles\obj\Debug\net6.0\TrianguloIsosceles.AssemblyInfoInputs.cache
+C:\Users\Dam\source\repos\Triangulo\TrianguloIsosceles\obj\Debug\net6.0\TrianguloIsosceles.AssemblyInfo.cs
+C:\Users\Dam\source\repos\Triangulo\TrianguloIsosceles\obj\Debug\net6.0\TrianguloIsosceles.csproj.CoreCompileInputs.cache
+C:\Users\Dam\source\repos\Triangulo\TrianguloIsosceles\obj\Debug\net6.0\TrianguloIsosceles.dll
+C:\Users\Dam\source\repos\Triangulo\TrianguloIsosceles\obj\Debug\net6.0\refint\TrianguloIsosceles.dll
+C:\Users\Dam\source\repos\Triangulo\TrianguloIsosceles\obj\Debug\net6.0\TrianguloIsosceles.pdb
+C:\Users\Dam\source\repos\Triangulo\TrianguloIsosceles\obj\Debug\net6.0\TrianguloIsosceles.genruntimeconfig.cache
+C:\Users\Dam\source\repos\Triangulo\TrianguloIsosceles\obj\Debug\net6.0\ref\TrianguloIsosceles.dll
